@@ -1,0 +1,11 @@
+h1{
+    margin-top: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    border-radius: 5%;
+    box-shadow:  grey 0 0 10px;
+}
+div{
+    margin: 6px;
+}
